@@ -23,5 +23,3 @@ Arithmetic obj=new Arithmetic();
 obj.add();
 obj.sub();
 }
-}
-
